@@ -6,3 +6,4 @@
 - 🌐 My personal website: [Here](https://www.aehxy.com)!
 
 ![Aehxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmr-bot)
+![Aehxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmr-bot)
